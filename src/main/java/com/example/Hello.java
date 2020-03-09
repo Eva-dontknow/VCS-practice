@@ -4,6 +4,7 @@ public class Hello {
     public Hello(){}
 
     public void bug(){
-        int num = 10 / 0;
+        int num = 10;
     }
+    public void fixBug(){}
 }
