@@ -8,5 +8,7 @@ public class Hello {
         int num = 10 / 0;
         int a = num + 10;
     }
-    public void feature(){}
+    public void feature(){
+        System.out.println("adhfver");
+    }
 }
